@@ -1,6 +1,6 @@
 ## 🔗 Project Fork — Detection Governance Tooling
  
-This is a portfolio fork maintained by **Jacqueline Montano**, a Cybersecurity Engineer building open-source GRC tooling that operationalizes this dataset.
+This is a project fork maintained by **Jacqueline Montano**, a Cybersecurity Engineer building open-source GRC tooling that operationalizes this dataset.
  
 This mapping data serves as the foundational reference for **[threat-control-mapper](https://github.com/jac-mon/threat-control-mapper)** — a CLI tool that ingests user-supplied Sigma detection rules, maps them to ATT&CK techniques, and generates a NIST 800-53 control coverage gap report.
  
