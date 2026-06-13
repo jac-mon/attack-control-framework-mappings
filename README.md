@@ -1,3 +1,18 @@
+## 🔗 Project Fork — Detection Governance Tooling
+ 
+This is a portfolio fork maintained by **Jacqueline Montano**, a Cybersecurity Engineer building open-source GRC tooling that operationalizes this dataset.
+ 
+This mapping data serves as the foundational reference for **[threat-control-mapper](https://github.com/jac-mon/threat-control-mapper)** — a CLI tool that ingests user-supplied Sigma detection rules, maps them to ATT&CK techniques, and generates a NIST 800-53 control coverage gap report.
+ 
+See [PROJECT_CONTEXT.md](./PROJECT_CONTEXT.md) for full context on how this data is being used and what gaps in the existing tooling ecosystem this project addresses.
+
+&nbsp;
+---
+
+<!-- Original README below — maintained by the Center for Threat-Informed Defense -->
+
+&nbsp;
+
 > 🚨**ATTENTION**🚨 The NIST 800-53 mappings have migrated to CTID’s new [Mappings Explorer](https://center-for-threat-informed-defense.github.io/mappings-explorer/external/nist/) project. You can find the latest mappings on the Mappings Explorer website. This website presents threat and mitigation data in easily accessible and customizable ways, enabling cyber defenders to understand how security controls and capabilities map onto adversary behaviors catalogued in the [MITRE ATT&CK®](https://attack.mitre.org/) knowledge base. The source code and raw data for the Mappings Explorer project can be found in the [mappings-explorer repository](https://github.com/center-for-threat-informed-defense/mappings-explorer/).
 
 # Security Control Framework Mappings to ATT&CK
